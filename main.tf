@@ -1,5 +1,5 @@
 provider "aws" {
-    region = "ap.south-1"
+    region = "ap-south-1"
 }
 
 #============== create an S3 bucket to store the state file in
